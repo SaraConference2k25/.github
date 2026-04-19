@@ -18,7 +18,7 @@
 
 ## Organization Overview
 
-The SARA Conference Management System was built by the first two batches of the CSBS Department, Saranathan College of Engineering (2025), to support end-to-end academic conference workflows.
+The SARA Conference Management System was built by the first two benchers of the CSBS Department, Saranathan College of Engineering (2025), to support end-to-end academic conference workflows.
 
 This organization hosts the core projects used for:
 
