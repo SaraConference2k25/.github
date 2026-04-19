@@ -114,4 +114,4 @@ Contributions from CSBS students and maintainers are welcome.
 
 ## Credits
 
-Built and maintained by students of CSBS, Saranathan College of Engineering (2025), under the SARA Conference initiative.
+Built and maintained by students of CSBS, Saranathan College of Engineering (2025), under the  building a Conference Management System initiative.
