@@ -1,64 +1,80 @@
-# SARA Conference Management System (2025)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJ9Xfib2dIgv0QNKrlulao15A1vQU06ZQcg&s" alt="SaraConference2k25 Logo" width="120" />
+</p>
+<h1 align="center">SaraConference2k25</h1>
 
-> Official GitHub organization profile for **SaraConference2k25**.
+<p align="center">
+  Official GitHub organization profile for the SARA Conference Management System.
+</p>
 
-The SARA Conference Management System was built by the **first two batches of the CSBS Department, Saranathan College of Engineering (2025)** to support end-to-end academic conference workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Organization-SaraConference2k25-0A66C2?logo=github&logoColor=white" alt="Organization Badge" />
+  <img src="https://img.shields.io/badge/Repositories-4-1F2937?logo=github&logoColor=white" alt="Repository Count Badge" />
+  <img src="https://img.shields.io/badge/Contributors-9-0F766E?logo=github&logoColor=white" alt="Contributor Count Badge" />
+  <img src="https://img.shields.io/badge/Total%20Commits-129-7C3AED?logo=git&logoColor=white" alt="Commit Count Badge" />
+</p>
 
 ---
 
-## 📌 About the Organization
+## Organization Overview
 
-This organization hosts the core projects used for conference operations:
+The SARA Conference Management System was built by the first two benchers of the CSBS Department, Saranathan College of Engineering (2025), to support end-to-end academic conference workflows.
+
+This organization hosts the core projects used for:
 
 - Paper submission and tracking
-- Reviewer/evaluator workflows
-- Admin management and monitoring
+- Reviewer and evaluator workflows
+- Administrative management and monitoring
 - Frontend and backend integration for academic events
 
 ---
 
-## 🧩 Repositories
+## Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Java Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-Next.js-3178C6?logo=typescript&logoColor=white" alt="TypeScript Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Frontend" />
+  <img src="https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=0B1021" alt="React UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-111827?logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+</p>
+
+---
+
+## Repository Portfolio
 
 | Repository | Purpose | Stack | Link |
 |---|---|---|---|
 | `conference-management-system-backend` | API and business logic | Java / Spring Boot | https://github.com/SaraConference2k25/conference-management-system-backend |
-| `conference-management-system-frontend` | Modern frontend (new) | TypeScript / Next.js | https://github.com/SaraConference2k25/conference-management-system-frontend |
+| `conference-management-system-frontend` | Modern frontend implementation | TypeScript / Next.js | https://github.com/SaraConference2k25/conference-management-system-frontend |
 | `frontend` | Earlier frontend implementation | JavaScript | https://github.com/SaraConference2k25/frontend |
-| `.github` | Organization profile and shared docs | Markdown | https://github.com/SaraConference2k25/.github |
+| `.github` | Organization profile and shared documentation | Markdown | https://github.com/SaraConference2k25/.github |
 
 ---
 
-## 🧱 System Roles
+## User Roles
 
-- **Participants**: Submit papers, track status, manage profiles
+- **Participants**: Submit papers, track status, and manage profiles
 - **Evaluators**: Review assigned papers and submit evaluations
 - **Administrators**: Manage users, workflows, and conference operations
 
 ---
 
-## ⚙️ Tech Snapshot
+## Organization Metrics (Snapshot)
 
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Spring Boot (REST APIs)
-- **Auth**: JWT-based role-aware authentication
-- **Core Flow**: Submission → Evaluation → Decision/Management
-
----
-
-## 📊 Organization Metrics (Snapshot)
-
-_As of 2026-04-19 (public repositories in this organization)_
+As of 2026-04-19 (public repositories in this organization)
 
 | Metric | Value |
-|---|---|
+|---|---:|
 | Total repositories | 4 |
 | Total commits (latest snapshot) | 129 |
 | Unique commit authors | 9 |
-| Stars across org repos | 0 |
-| Forks across org repos | 0 |
-| Open issues across org repos | 0 |
+| Stars across repositories | 0 |
+| Forks across repositories | 0 |
+| Open issues across repositories | 0 |
 
-### Commits by Person
+### Contributors by Commit Count
 
 | Contributor (author name in commits) | Commits |
 |---|---:|
@@ -72,11 +88,11 @@ _As of 2026-04-19 (public repositories in this organization)_
 | Cibiesh S | 1 |
 | BHARATH S.R | 1 |
 
-> Note: Some contributors may appear with multiple author-name variants.
+Note: Some contributors may appear with multiple author-name variants.
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 - Organization: https://github.com/SaraConference2k25
 - Backend: https://github.com/SaraConference2k25/conference-management-system-backend
@@ -85,17 +101,17 @@ _As of 2026-04-19 (public repositories in this organization)_
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Contributions from CSBS students and maintainers are welcome.
 
 1. Create a branch
 2. Make focused changes
-3. Open a pull request with clear description
+3. Open a pull request with a clear description
 4. Address review comments and merge
 
 ---
 
-## 👥 Credits
+## Credits
 
-Built and maintained by students of **CSBS, Saranathan College of Engineering (2025)** under the **SARA Conference** initiative.
+Built and maintained by students of CSBS, Saranathan College of Engineering (2025), under the SARA Conference initiative.
